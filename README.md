@@ -18,6 +18,6 @@ I owe my deepest gratitude to [ToruMakabe](https://github.com/ToruMakabe).
 + WIP
 
 ```
-git clone hogehoge
-cd hogehoge
+git clone https://github.com/iganari/handson-aks_observability_trial_kit.git
+cd handson-aks_observability_trial_kit.git
 ```
