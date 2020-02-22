@@ -1,4 +1,4 @@
-# handson-aks_observability_trial_kit
+# Hands-On of AKS Observability Trial Kit
 respect https://torumakabe.github.io/post/aks_observability_trial_kit/
 
 ## Special thanks
