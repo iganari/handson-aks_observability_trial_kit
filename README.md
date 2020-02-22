@@ -21,3 +21,10 @@ I owe my deepest gratitude to [ToruMakabe](https://github.com/ToruMakabe).
 git clone https://github.com/iganari/handson-aks_observability_trial_kit.git
 cd handson-aks_observability_trial_kit.git
 ```
+
+## 変更事項(一時的に日本語)
+
++ azurerm のバージョン固定をコメントアウト
+  + プロババイダーの変更は比較的に激しい為固定するメリットは無い
+  + 基本的にはいつも最新が落とされるはずなので、最新に追従するようにコードを修正しましょう
+  + とはいえ、これは運用の課題なので、時と場合によってはバージョンを固定したほうがいいです
