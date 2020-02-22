@@ -7,7 +7,7 @@ This Repository is Hands on based-On https://torumakabe.github.io/post/aks_obser
 
 I owe my deepest gratitude to [ToruMakabe](https://github.com/ToruMakabe).
 
-## Need
+## You need
 
 + Terraform (v.0.12.xx)
 + Azure Account
