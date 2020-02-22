@@ -3,7 +3,7 @@ respect https://torumakabe.github.io/post/aks_observability_trial_kit/
 
 ## Special thanks
 
-This Repository is Hands on based on https://torumakabe.github.io/post/aks_observability_trial_kit/ 
+This Repository is Hands on based-On https://torumakabe.github.io/post/aks_observability_trial_kit/ 
 
 I owe my deepest gratitude to [ToruMakabe](https://github.com/ToruMakabe).
 
